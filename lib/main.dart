@@ -76,7 +76,7 @@ class HomePage extends StatelessWidget {
                     context,
                     MaterialPageRoute(builder: (context) => const FirstScreen()),
                   );
-                },
+                }, 
                 child: const Text(
                     'GET STARTED',
                     style: TextStyle(
